@@ -1,7 +1,7 @@
 Book Recommender Engine
 
 This is a simple, self-contained book recommendation engine built with Streamlit, LangChain, and ChromaDB. It allows you to get book suggestions based on a natural language query.
-✨ Features
+ Features
 
     Natural Language Search: Find books by describing a genre, theme, or author in plain English.
 
